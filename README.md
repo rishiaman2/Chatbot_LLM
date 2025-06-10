@@ -217,14 +217,3 @@ This chatbot is built using a modern tech stack and implements a robust architec
 3. Implement your changes
 4. Write/update tests
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support or inquiries:
-- Email: info@commongoodharlem.com
-- Phone: (212) 567-8901
-- GitHub Issues: [Repository Issues Page] 
